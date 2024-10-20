@@ -1,0 +1,6 @@
+git pull origin main --rebase
+git push origin main --force
+git add .
+git commit -m "แก้ไข conflict"
+git push origin main
+
